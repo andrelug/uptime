@@ -18,6 +18,90 @@ sites:
     url: https://alliancebh.com.br
   - name: Blog Comparar
     url: https://blog.compararsegurodeviagem.com.br
+  - name: Cargo Sapiens
+    url: https://cargosapiens.com
+  - name: Claudia Lima
+    url: https://claudialima.com
+  - name: Clerimar
+    url: https://clerimar.com.br
+  - name: Corpo Escola de Dança
+    url: https://corpoescoladedanca.com
+  - name: Dany Carvalho
+    url: https://danycarvalho.com
+  - name: Edap
+    url: https://edap.com.br
+  - name: EMMA
+    url: https://emmaarquitetura.com.br
+  - name: Instituto Corpo
+    url: https://institutocorpo.org
+  - name: Juliana Saldanha
+    url: https://julianasaldanha.com.br
+  - name: We Launch
+    url: https://welaumch.com.br
+  - name: Life Line
+    url: https://lifelinestore.com.br
+  - name: Marukame
+    url: https://marukame.com.br
+  - name: Matheus Gepeto
+    url: https://matheusgepeto.com
+  - name: Mautic Iglu
+    url: https://mkt.igluonline.com
+  - name: Mautic Ju Saldanha
+    url: https://mkt.julianasaldanha.com.br
+  - name: Blog Nephew
+    url: https://blog.nephew.com.br
+  - name: Paula Tavares
+    url: https://paulatavares.com
+  - name: Pedro Londe
+    url: https://pedrolonde.com
+  - name: Promo LF
+    url: https://promo.lfcomprinhas.com.br
+  - name: Psiforense
+    url: https://psiforense.com.br
+  - name: Ignorância Diversificada
+    url: https://ignoranciadiversificada.com
+  - name: Sônia Reimberg
+    url: https://soniareimberg.com.br
+  - name: Travel Card Assist
+    url: https://travelcardassist.com.br
+  - name: Upperclick
+    url: https://upperclick.com.br
+  - name: Upperclick
+    url: https://upperclick.com.br
+  - name: Youngerderm
+    url: https://youngerderm.com.br
+  - name: Destec
+    url: https://destec.com.br
+  - name: Casa Fluminense
+    url: https://casafluminense.org.br
+  - name: Agenda Rio
+    url: https://agendario.org
+  - name: Almanaque Casaflu
+    url: https://almanaque.casafluminense.org.br
+  - name: Não Foi em Vão Casaflu
+    url: https://naofoiemvao.casafluminense.org.br
+  - name: Parlamento Casaflu
+    url: https://parlamento.casafluminense.org.br
+  - name: Fórum Rio
+    url: https://forumrio.org
+  - name: Park Education
+    url: https://parkeducation.com.br
+  - name: Agapesos
+    url: https://agapesos.com.br
+  - name: Dra Carolina Lamac
+    url: https://dracarolinalamac.com.br
+  - name: Home Store Delas
+    url: https://homestoredelas.com
+  - name: Paraiso Caipira
+    url: https://paraisocaipira.com.br
+  - name: Rede 60 Mais
+    url: https://rede60mais.org.br
+  - name: Rede Longevidade
+    url: https://redelongevidade.org.br
+  - name: Rede Longevidade Conexão 60
+    url: https://redelongevidade.org.br/conexao60
+  - name: Nosso Amigo
+    url: https://nossoamigo.org
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
