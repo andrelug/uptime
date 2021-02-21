@@ -148,19 +148,19 @@
     "url": "https://claudialima.com",
     "icon": "https://favicons.githubusercontent.com/claudialima.com",
     "slug": "claudia-lima",
-    "status": "down",
-    "uptime": "0.91%",
-    "uptimeDay": "0.91%",
-    "uptimeWeek": "0.91%",
-    "uptimeMonth": "0.91%",
-    "uptimeYear": "0.91%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "8.27%",
+    "uptimeDay": "8.27%",
+    "uptimeWeek": "8.27%",
+    "uptimeMonth": "8.27%",
+    "uptimeYear": "8.27%",
+    "time": 645,
+    "timeDay": 645,
+    "timeWeek": 645,
+    "timeMonth": 645,
+    "timeYear": 645,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 7
     }
   },
   {
@@ -295,18 +295,18 @@
     "icon": "https://favicons.githubusercontent.com/welaumch.com.br",
     "slug": "we-launch",
     "status": "down",
-    "uptime": "1.81%",
-    "uptimeDay": "1.81%",
-    "uptimeWeek": "1.81%",
-    "uptimeMonth": "1.81%",
-    "uptimeYear": "1.81%",
+    "uptime": "0.53%",
+    "uptimeDay": "0.53%",
+    "uptimeWeek": "0.53%",
+    "uptimeMonth": "0.53%",
+    "uptimeYear": "0.53%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 8
     }
   },
   {
@@ -333,18 +333,18 @@
     "icon": "https://favicons.githubusercontent.com/marukame.com.br",
     "slug": "marukame",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.18%",
+    "uptimeDay": "0.18%",
+    "uptimeWeek": "0.18%",
+    "uptimeMonth": "0.18%",
+    "uptimeYear": "0.18%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 7
     }
   },
   {
@@ -478,19 +478,19 @@
     "url": "https://psiforense.com.br",
     "icon": "https://favicons.githubusercontent.com/psiforense.com.br",
     "slug": "psiforense",
-    "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "5.76%",
+    "uptimeDay": "5.76%",
+    "uptimeWeek": "5.76%",
+    "uptimeMonth": "5.76%",
+    "uptimeYear": "5.76%",
+    "time": 807,
+    "timeDay": 807,
+    "timeWeek": 807,
+    "timeMonth": 807,
+    "timeYear": 807,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 7
     }
   },
   {
@@ -499,18 +499,18 @@
     "icon": "https://favicons.githubusercontent.com/ignoranciadiversificada.com",
     "slug": "ignorancia-diversificada",
     "status": "down",
-    "uptime": "1.17%",
-    "uptimeDay": "1.17%",
-    "uptimeWeek": "1.17%",
-    "uptimeMonth": "1.17%",
-    "uptimeYear": "1.17%",
+    "uptime": "0.26%",
+    "uptimeDay": "0.26%",
+    "uptimeWeek": "0.26%",
+    "uptimeMonth": "0.26%",
+    "uptimeYear": "0.26%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 7
     }
   },
   {
@@ -879,18 +879,18 @@
     "icon": "https://favicons.githubusercontent.com/nossoamigo.org",
     "slug": "nosso-amigo",
     "status": "down",
-    "uptime": "0.00%",
-    "uptimeDay": "0.00%",
-    "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "0.00%",
+    "uptime": "0.01%",
+    "uptimeDay": "0.01%",
+    "uptimeWeek": "0.01%",
+    "uptimeMonth": "0.01%",
+    "uptimeYear": "0.01%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 1
+      "2021-02-21": 7
     }
   }
 ]
