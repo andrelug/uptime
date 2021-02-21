@@ -8,8 +8,16 @@ sites:
     url: https://igluonline.com
   - name: André Lug
     url: https://andrelug.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Above Marketing
+    url: https://abovemarketing.com.br
+  - name: Aeroengenharia
+    url: https://aeroengenharia.com
+  - name: AG Santos Engenharia
+    url: http://agsantosengenharia.com.br
+  - name: Alliance BH
+    url: https://alliancebh.com.br
+  - name: Blog Comparar
+    url: https://blog.compararsegurodeviagem.com.br
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
