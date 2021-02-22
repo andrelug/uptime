@@ -293,18 +293,19 @@
     "icon": "https://favicons.githubusercontent.com/welaumch.com.br",
     "slug": "we-launch",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 14
+      "2021-02-22": 5,
+      "2021-02-21": 16
     }
   },
   {
@@ -331,18 +332,19 @@
     "icon": "https://favicons.githubusercontent.com/marukame.com.br",
     "slug": "marukame",
     "status": "down",
-    "uptime": "0.02%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "0.02%",
-    "uptimeMonth": "0.02%",
-    "uptimeYear": "0.02%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 14
+      "2021-02-22": 5,
+      "2021-02-21": 16
     }
   },
   {
@@ -495,18 +497,19 @@
     "icon": "https://favicons.githubusercontent.com/ignoranciadiversificada.com",
     "slug": "ignorancia-diversificada",
     "status": "down",
-    "uptime": "0.09%",
-    "uptimeDay": "0.09%",
-    "uptimeWeek": "0.09%",
-    "uptimeMonth": "0.09%",
-    "uptimeYear": "0.09%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 14
+      "2021-02-22": 5,
+      "2021-02-21": 15
     }
   },
   {
@@ -875,18 +878,16 @@
     "icon": "https://favicons.githubusercontent.com/nossoamigo.org",
     "slug": "nosso-amigo",
     "status": "up",
-    "uptime": "4.36%",
-    "uptimeDay": "4.36%",
-    "uptimeWeek": "4.36%",
-    "uptimeMonth": "4.36%",
-    "uptimeYear": "4.36%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 993,
     "timeDay": 993,
     "timeWeek": 993,
     "timeMonth": 993,
     "timeYear": 993,
-    "dailyMinutesDown": {
-      "2021-02-21": 13
-    }
+    "dailyMinutesDown": {}
   }
 ]
