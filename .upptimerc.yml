@@ -102,32 +102,32 @@ sites:
     url: https://redelongevidade.org.br/conexao60
   - name: Nosso Amigo
     url: https://nossoamigo.org
-  - name: Ortodontia Essencial
-    url: https://ortodontiaessencial.com.br
+#  - name: Ortodontia Essencial
+#    url: https://ortodontiaessencial.com.br
   - name: Hélio Venâncio
     url: https://heliovenancio.com.br
-  - name: Hélio Venâncio .com
-    url: https://heliovenancio.com
+#  - name: Hélio Venâncio .com
+#    url: https://heliovenancio.com
   - name: Agência Midas
     url: https://agenciamidas.com.br
   - name: Aplica ai
     url: https://aplica.ai
   - name: Orthoflix
     url: https://orthoflix.com.br
-  - name: Janaina Vieira
-    url: https://janainevieirag.com.br
-  - name: Guga Gadelha
-    url: https://gugagadelha.com.br
-  - name: Original film
-    url: https://originalfilm.com.br
-  - name: Caminho Primeiro Milhão
-    url: https://ocamunhidoprimeiromilhao.com.br
+#  - name: Janaina Vieira
+#    url: https://janainevieirag.com.br
+#  - name: Guga Gadelha
+#    url: https://gugagadelha.com.br
+#  - name: Original film
+#    url: https://originalfilm.com.br
+#  - name: Caminho Primeiro Milhão
+#    url: https://ocaminhodoprimeiromilhao.com.br
   - name: Desaposentados Digitais
     url: https://desaposentadosdigitais.com.br
   - name: Agência Movein
     url: https://agenciamovein.com.br
-  - name: Vip We Launch
-    url: https://vip.welaunch.com.br
+#  - name: Vip We Launch
+#    url: https://vip.welaunch.com.br
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
