@@ -149,19 +149,17 @@
     "icon": "https://favicons.githubusercontent.com/claudialima.com",
     "slug": "claudia-lima",
     "status": "up",
-    "uptime": "8.27%",
-    "uptimeDay": "8.27%",
-    "uptimeWeek": "8.27%",
-    "uptimeMonth": "8.27%",
-    "uptimeYear": "8.27%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 645,
     "timeDay": 645,
     "timeWeek": 645,
     "timeMonth": 645,
     "timeYear": 645,
-    "dailyMinutesDown": {
-      "2021-02-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Clerimar",
@@ -295,18 +293,19 @@
     "icon": "https://favicons.githubusercontent.com/welaumch.com.br",
     "slug": "we-launch",
     "status": "down",
-    "uptime": "0.53%",
-    "uptimeDay": "0.53%",
-    "uptimeWeek": "0.53%",
-    "uptimeMonth": "0.53%",
-    "uptimeYear": "0.53%",
+    "uptime": "0.16%",
+    "uptimeDay": "0.16%",
+    "uptimeWeek": "0.16%",
+    "uptimeMonth": "0.16%",
+    "uptimeYear": "0.16%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 8
+      "2021-02-22": 5,
+      "2021-02-21": 16
     }
   },
   {
@@ -333,18 +332,19 @@
     "icon": "https://favicons.githubusercontent.com/marukame.com.br",
     "slug": "marukame",
     "status": "down",
-    "uptime": "0.18%",
-    "uptimeDay": "0.18%",
-    "uptimeWeek": "0.18%",
-    "uptimeMonth": "0.18%",
-    "uptimeYear": "0.18%",
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 7
+      "2021-02-22": 5,
+      "2021-02-21": 16
     }
   },
   {
@@ -479,19 +479,17 @@
     "icon": "https://favicons.githubusercontent.com/psiforense.com.br",
     "slug": "psiforense",
     "status": "up",
-    "uptime": "5.76%",
-    "uptimeDay": "5.76%",
-    "uptimeWeek": "5.76%",
-    "uptimeMonth": "5.76%",
-    "uptimeYear": "5.76%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 807,
     "timeDay": 807,
     "timeWeek": 807,
     "timeMonth": 807,
     "timeYear": 807,
-    "dailyMinutesDown": {
-      "2021-02-21": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ignorância Diversificada",
@@ -499,18 +497,19 @@
     "icon": "https://favicons.githubusercontent.com/ignoranciadiversificada.com",
     "slug": "ignorancia-diversificada",
     "status": "down",
-    "uptime": "0.26%",
-    "uptimeDay": "0.26%",
-    "uptimeWeek": "0.26%",
-    "uptimeMonth": "0.26%",
-    "uptimeYear": "0.26%",
+    "uptime": "0.05%",
+    "uptimeDay": "0.05%",
+    "uptimeWeek": "0.05%",
+    "uptimeMonth": "0.05%",
+    "uptimeYear": "0.05%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-02-21": 7
+      "2021-02-22": 5,
+      "2021-02-21": 15
     }
   },
   {
@@ -878,19 +877,17 @@
     "url": "https://nossoamigo.org",
     "icon": "https://favicons.githubusercontent.com/nossoamigo.org",
     "slug": "nosso-amigo",
-    "status": "down",
-    "uptime": "0.01%",
-    "uptimeDay": "0.01%",
-    "uptimeWeek": "0.01%",
-    "uptimeMonth": "0.01%",
-    "uptimeYear": "0.01%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2021-02-21": 7
-    }
+    "status": "up",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 993,
+    "timeDay": 993,
+    "timeWeek": 993,
+    "timeMonth": 993,
+    "timeYear": 993,
+    "dailyMinutesDown": {}
   }
 ]
