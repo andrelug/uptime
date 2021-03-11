@@ -85,18 +85,17 @@
     "icon": "https://favicons.githubusercontent.com/agsantosengenharia.com.br",
     "slug": "ag-santos-engenharia",
     "status": "up",
-    "uptime": "99.54%",
-    "uptimeDay": "99.00%",
-    "uptimeWeek": "99.36%",
-    "uptimeMonth": "99.54%",
-    "uptimeYear": "99.54%",
+    "uptime": "99.59%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.51%",
+    "uptimeMonth": "99.59%",
+    "uptimeYear": "99.59%",
     "time": 846,
     "timeDay": 792,
     "timeWeek": 802,
     "timeMonth": 846,
     "timeYear": 846,
     "dailyMinutesDown": {
-      "2021-03-11": 14,
       "2021-03-10": 29,
       "2021-03-09": 21,
       "2021-02-25": 30,
@@ -470,18 +469,18 @@
     "icon": "https://favicons.githubusercontent.com/paulatavares.com",
     "slug": "paula-tavares",
     "status": "down",
-    "uptime": "50.28%",
+    "uptime": "50.22%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "50.28%",
-    "uptimeYear": "50.28%",
+    "uptimeMonth": "50.22%",
+    "uptimeYear": "50.22%",
     "time": 1014,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 1014,
     "timeYear": 1014,
     "dailyMinutesDown": {
-      "2021-03-11": 825,
+      "2021-03-11": 854,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,
@@ -566,7 +565,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2021-03-11": 825,
+      "2021-03-11": 854,
       "2021-03-10": 1440,
       "2021-03-09": 1440,
       "2021-03-08": 1440,
@@ -800,11 +799,11 @@
     "icon": "https://favicons.githubusercontent.com/forumrio.org",
     "slug": "forum-rio",
     "status": "up",
-    "uptime": "97.55%",
+    "uptime": "97.56%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "93.85%",
-    "uptimeMonth": "97.55%",
-    "uptimeYear": "97.55%",
+    "uptimeMonth": "97.56%",
+    "uptimeYear": "97.56%",
     "time": 145,
     "timeDay": 148,
     "timeWeek": 159,
@@ -981,9 +980,9 @@
     "url": "https://heliovenancio.com.br",
     "icon": "https://favicons.githubusercontent.com/heliovenancio.com.br",
     "slug": "helio-venancio",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -992,16 +991,18 @@
     "timeWeek": 624,
     "timeMonth": 371,
     "timeYear": 371,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "Agência Midas",
     "url": "https://agenciamidas.com.br",
     "icon": "https://favicons.githubusercontent.com/agenciamidas.com.br",
     "slug": "agencia-midas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1010,16 +1011,18 @@
     "timeWeek": 225,
     "timeMonth": 254,
     "timeYear": 254,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "Aplica ai",
     "url": "https://aplica.ai",
     "icon": "https://favicons.githubusercontent.com/aplica.ai",
     "slug": "aplica-ai",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1028,16 +1031,18 @@
     "timeWeek": 772,
     "timeMonth": 402,
     "timeYear": 402,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "Orthoflix",
     "url": "https://orthoflix.com.br",
     "icon": "https://favicons.githubusercontent.com/orthoflix.com.br",
     "slug": "orthoflix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1046,16 +1051,18 @@
     "timeWeek": 638,
     "timeMonth": 435,
     "timeYear": 435,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "Desaposentados Digitais",
     "url": "https://desaposentadosdigitais.com.br",
     "icon": "https://favicons.githubusercontent.com/desaposentadosdigitais.com.br",
     "slug": "desaposentados-digitais",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1064,16 +1071,18 @@
     "timeWeek": 278,
     "timeMonth": 312,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   },
   {
     "name": "Agência Movein",
     "url": "https://agenciamovein.com.br",
     "icon": "https://favicons.githubusercontent.com/agenciamovein.com.br",
     "slug": "agencia-movein",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -1082,6 +1091,8 @@
     "timeWeek": 196,
     "timeMonth": 222,
     "timeYear": 222,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-11": 0
+    }
   }
 ]
